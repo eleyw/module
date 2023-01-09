@@ -1,0 +1,61 @@
+.chapter {
+    text-align: center;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.bolder {
+    font-weight: 600;
+}
+
+.line {
+    text-decoration: underline;
+}
+
+.lineover {
+    text-decoration: overline;
+}
+
+.lineall {
+    text-decoration: underline;
+    text-decoration: line-through;
+}
+
+.linethrough {
+    text-decoration: line-through;
+}
+
+.through-italic {
+    font-style: italic;
+    text-decoration: line-through;
+}
+
+.bolder-ital {
+    font-weight: 600;
+    font-style: italic;
+}
+
+.under-italic {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.title-color {
+    color: blueviolet;
+    background-color: bisque;
+}
+
+.title-margin {
+    color: red;
+    background-color: blanchedalmond;
+    margin-left: 40px;
+
+}
+
+.title-size {
+    font-size: 60px;
+    color: gray;
+    background-color: aqua;
+}
